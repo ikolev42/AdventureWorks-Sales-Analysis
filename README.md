@@ -14,6 +14,11 @@ analysis_queries.sql -- Analytical queries for reporting
 sales_procedure.sql -- Stored procedure with parameters
 indexes_and_optimization.sql -- Index creation and performance analysis
 
+🔧 Features
+- View for consolidated sales data
+- Top products per territory
+- Parameterized procedure for product revenue
+- Indexed queries for better performance
 
 ✅ How to Use
 
