@@ -49,7 +49,7 @@ Revenue by Sales Territory
 
 This query shows total sales revenue grouped by sales territories.
 
-![Revenue by Territory](C:\Users\I10331\Documents\gitrep\photos\select(1,2)
+![Revenue by Territory](C:\Users\I10331\Documents\gitrep\photos\select(1,2).jpeg
 
 ---
 
