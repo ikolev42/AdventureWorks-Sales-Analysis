@@ -9,11 +9,10 @@ This project analyzes sales data from the AdventureWorks2022 database using T-SQ
 - T-SQL
 
 📂 File Structure
-sql/
-├── create_view.sql -- Sales summary view
-├── analysis_queries.sql -- Analytical queries for reporting
-├── sales_procedure.sql -- Stored procedure with parameters
-├── indexes_and_optimization.sql -- Index creation and performance analysis
+create_view.sql -- Sales summary view
+analysis_queries.sql -- Analytical queries for reporting
+sales_procedure.sql -- Stored procedure with parameters
+indexes_and_optimization.sql -- Index creation and performance analysis
 
 ✅ How to Use
 
