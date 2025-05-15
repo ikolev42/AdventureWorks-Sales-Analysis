@@ -52,7 +52,9 @@ Top 5 Best-Selling Products: The second part lists the five products that genera
 
 These insights are useful for regional performance tracking and product-level sales strategy.
 
-![Revenue and Top Products](photos/select(1,2). jpg)
+![Revenue and Top Products](photos/select(1,2).jpg)
+
+
 Top 5 Best-Selling Products
 
 This query lists the five products generating the highest revenue.
