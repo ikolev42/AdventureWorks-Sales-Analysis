@@ -85,5 +85,11 @@ Excel: Total Revenue by Year and Territory
 
 ![Second Pivot Table](photos/pic2.png)
 
+SQL + Excel: Top 5 Products by Revenue per Territory
+
+This analysis uses SQL window functions (ROW_NUMBER and RANK) to find the top 5 products with the highest revenue in each sales territory. The results were exported to Excel for further visualization.
+
+![Top Products by Territory](photos/pic3.png)
+
 
 Ivan Kolev
