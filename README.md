@@ -77,6 +77,13 @@ This query calculates average order value per month to show sales trends over ti
 
 ![Monthly Average Order Value](photos/Monthly_average.jpg)
 
+Excel: Your first analysis
+
+![First Pivot Table](photos/pic1.png)
+
+Excel: Total Revenue by Year and Territory
+
+![Second Pivot Table](photos/pic2.png)
 
 
 Ivan Kolev
