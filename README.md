@@ -42,5 +42,39 @@ This file contains advanced analytical queries on the AdventureWorks2022 databas
 
 These queries complement the base analysis and demonstrate skills in aggregation, ranking, and time-based reporting.
 
+Sample Outputs
+Below are example results from running some of the key SQL queries in this project. These screenshots demonstrate the insights extracted from the AdventureWorks2022 database.
+
+Revenue by Sales Territory
+
+This query shows total sales revenue grouped by sales territories.
+
+![Revenue by Territory](C:\Users\I10331\Documents\gitrep\photos\select(1,2)
+
+---
+
+Top 5 Best-Selling Products
+
+This query lists the five products generating the highest revenue.
+
+![Top Products](images/top_products.png)
+
+---
+
+Top 10 Customers by Spending
+
+This query identifies the top 10 customers based on total purchase amount.
+
+![Top Customers](images/top_customers.png)
+
+---
+
+Monthly Average Order Value
+
+This query calculates average order value per month to show sales trends over time.
+
+![Monthly Average Order Value](images/monthly_avg_order_value.png)
+
+
 
 Ivan Kolev
