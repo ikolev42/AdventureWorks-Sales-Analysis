@@ -45,14 +45,14 @@ These queries complement the base analysis and demonstrate skills in aggregation
 Sample Outputs
 Below are example results from running some of the key SQL queries in this project. These screenshots demonstrate the insights extracted from the AdventureWorks2022 database.
 
-Revenue by Sales Territory
+The following screenshot shows two result sets:
 
-This query shows total sales revenue grouped by sales territories.
+Total Revenue by Sales Territory: This part of the query summarizes the total sales revenue grouped by sales territories, helping to identify strong-performing regions.
+Top 5 Best-Selling Products: The second part lists the five products that generated the highest revenue overall.
 
-![Revenue by Territory](C:\Users\I10331\Documents\gitrep\photos\select(1,2).jpeg
+These insights are useful for regional performance tracking and product-level sales strategy.
 
----
-
+![Revenue and Top Products](photos/select(1,2).png)
 Top 5 Best-Selling Products
 
 This query lists the five products generating the highest revenue.
