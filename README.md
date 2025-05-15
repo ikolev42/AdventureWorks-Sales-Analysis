@@ -59,7 +59,7 @@ Top 5 Best-Selling Products
 
 This query lists the five products generating the highest revenue.
 
-![Top Products](images/top_products.png)
+![Top Products](photos/top_5.jpg)
 
 ---
 
@@ -67,7 +67,7 @@ Top 10 Customers by Spending
 
 This query identifies the top 10 customers based on total purchase amount.
 
-![Top Customers](images/top_customers.png)
+![Top Customers](photos/top_10.jpg)
 
 ---
 
@@ -75,7 +75,7 @@ Monthly Average Order Value
 
 This query calculates average order value per month to show sales trends over time.
 
-![Monthly Average Order Value](images/monthly_avg_order_value.png)
+![Monthly Average Order Value](photos/Monthly_average.jpg)
 
 
 
