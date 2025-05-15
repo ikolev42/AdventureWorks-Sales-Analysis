@@ -14,6 +14,7 @@ analysis_queries.sql -- Analytical queries for reporting
 sales_procedure.sql -- Stored procedure with parameters
 indexes_and_optimization.sql -- Index creation and performance analysis
 
+
 ✅ How to Use
 
 1. Restore the `AdventureWorks2022` database on your SQL Server.
