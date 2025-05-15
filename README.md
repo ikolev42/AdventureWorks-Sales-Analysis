@@ -17,11 +17,11 @@ indexes_and_optimization.sql -- Index creation and performance analysis
 How to Use
 
 1. Restore the `AdventureWorks2022` database on your SQL Server.
-2. Run `01_create_view.sql` to create the base view for analysis.
-3. Use `02_analysis_queries.sql` to generate reports by product, region, and customer.
-4. Run `02b_advanced_analysis.sql` for advanced analytics such as territory revenue and top customers.
-5. Execute `03_sales_procedure.sql` to create a reusable procedure for top product revenue.
-6. Test performance in `04_indexes_and_optimization.sql` using `STATISTICS IO` and `TIME`.
+2. Run `create_view.sql` to create the base view for analysis.
+3. Use `analysis_queries.sql` to generate reports by product, region, and customer.
+4. Run `advanced_analysis.sql` for advanced analytics such as territory revenue and top customers.
+5. Execute `sales_procedure.sql` to create a reusable procedure for top product revenue.
+6. Test performance in `indexes_and_optimization.sql` using `STATISTICS IO` and `TIME`.
 
 Key Concepts Practiced
 - Complex joins between sales, customers, and product tables
